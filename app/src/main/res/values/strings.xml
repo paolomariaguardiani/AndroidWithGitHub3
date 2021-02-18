@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">26 Git and Githyb in Android VCS</string>
+    <string name="button">Button</string>
+    <string name="this_is_an_imageview">This is an imageView</string>
 </resources>
